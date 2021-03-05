@@ -1,0 +1,1 @@
+select (city.name) from city as city join country as code on city.countrycode = code.code where code. CONTINENT = 'Africa';
